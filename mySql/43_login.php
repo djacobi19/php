@@ -1,5 +1,5 @@
 <?php
-//lectures 43,44,45 
+ 
 
 
 if(isset($_POST['Submit'])) {
