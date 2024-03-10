@@ -2,7 +2,7 @@
 include "db.php";
 include "functions.php";
 
-//lectures 46 Create Databases
+
 if(isset($_POST['Submit'])) {
 //echo "Submit Works!";   
 //echo "<br>";
