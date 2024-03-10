@@ -1,5 +1,5 @@
 <?php
-//lectures 47 Read Databases
+
 
 include "db.php";
  
